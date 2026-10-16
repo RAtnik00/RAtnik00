@@ -4,7 +4,7 @@ I’m learning by building things — from Python scripts and React projects to 
 
 I enjoy automation, web development, and understanding how software works under the hood. This profile is where I share what I build and what I learn along the way.
 
-### Technologies
+### 🧰 Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -26,15 +26,31 @@ These are self-assessed levels, and I’m still learning.
 - **Web development:** building interfaces with React.
 - **iOS & jailbreak:** Objective-C, Theos, and customizing the lock screen.
 
-### Projects
+### 💻 Project experience
 
-**NextClock** — my first jailbreak tweak: custom static and animated lock screen clocks for rootless iOS 15.
+#### [Weather Dashboard](https://github.com/RAtnik00/weather-api-fastapi)
+**Tools:** Python, FastAPI, React, Vite, React Query, OpenWeather API.
+
+A full-stack weather application with city search, geolocation, multi-day forecasts, favorites, and search history. Includes responsive layouts and theme preferences. Backend hosted on Render; frontend on Vercel.
+
+#### [Movie Library](https://github.com/RAtnik00/movie-library)
+**Backend tools:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pytest, Docker Compose.
+
+A movie library project with authentication, TMDB movie search, favorites, watchlists, ratings, comments, and reminders. Includes an AI movie assistant endpoint powered by Gemini.
+
+#### NextClock
+**Tools:** Objective-C, Logos, Theos, UIKit.
+
+My first jailbreak tweak: custom static and animated lock screen clocks for rootless iOS 15. Includes custom pack imports, animation controls, layout adjustments, and localized settings.
 
 [Preview & screenshots](https://ratnik00.github.io/repo/depictions/nextclock/) · [Jailbreak repository](https://ratnik00.github.io/repo/)
 
-More projects and experiments will find their home here as I keep learning.
+#### [Booking Platform](https://github.com/RAtnik00/booking-platform)
+**Tools:** Python, Django, PostgreSQL, Django Templates, Tailwind CSS, Docker Compose.
 
-### Languages I speak
+A tutoring lesson booking application with student and tutor roles, tutor profiles, booking requests, and approval or rejection workflows. Includes authentication, form validation, and basic unit tests.
+
+### 🗣️ Languages I speak
 
 | Language | Level |
 | :--- | :--- |
@@ -43,6 +59,6 @@ More projects and experiments will find their home here as I keep learning.
 | Polish | B1+ |
 | English | B1 |
 
-### Find me
+### 📫 Find me
 
 [X / Twitter — @RAtnik00](https://x.com/RAtnik00)
