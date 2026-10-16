@@ -28,7 +28,7 @@ These are self-assessed levels, and I’m still learning.
 
 ### Projects
 
-**[NextClock](https://github.com/RAtnik00/NextClock)** — my first jailbreak tweak: custom static and animated lock screen clocks for rootless iOS 15.
+**NextClock** — my first jailbreak tweak: custom static and animated lock screen clocks for rootless iOS 15.
 
 [Preview & screenshots](https://ratnik00.github.io/repo/depictions/nextclock/) · [Jailbreak repository](https://ratnik00.github.io/repo/)
 
